@@ -1,3 +1,5 @@
+# What is the output of the program? #Asked in an written interview
+
 #include <stdio.h>
 
 int main() {
